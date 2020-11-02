@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="cvtico" targetName="cvtico" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b6c4c01-729d-4b58-98aa-4fa130bae648" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/BLOGO-white.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/BLOGO-white.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/BLOGO.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/BLOGO.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/CLion.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/CLion.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/HP-printer.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/HP-printer.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/KB.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/KB.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/MinGW32.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/MinGW32.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/MinGW64.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/MinGW64.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/NN.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/NN.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/Python2.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/Python2.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/Python3.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/Python3.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/RDP.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/RDP.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/WSL.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/WSL.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/adata-gold.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/adata-gold.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/bandizip.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/bandizip.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/bitbucket.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/bitbucket.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/chrome.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/chrome.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/clover.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/clover.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/cmake.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/cmake.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/filezilla.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/filezilla.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/firefox.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/firefox.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/foxit-reader-logo.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/foxit-reader-logo.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/github.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/github.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/google.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/google.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/hancom.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/hancom.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/hddb.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/hddb.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/hdf5.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/hdf5.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/honeycam.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/honeycam.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/honeyview.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/honeyview.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/leaf.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/leaf.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/leveldb.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/leveldb.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/mercurial.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/mercurial.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/notepad++.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/notepad++.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/nvidia.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/nvidia.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/office-365.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/office-365.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/onedrive.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/onedrive.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/openblas.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/openblas.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/opencv.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/opencv.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/openjdk.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/openjdk.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/perl.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/perl.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/potplayer.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/potplayer.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/sharex.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/sharex.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/signature.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/signature.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/sogang.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/sogang.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/speccy.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/speccy.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/tinyxml.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/tinyxml.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/ubuntu.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/ubuntu.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/vim.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/vim.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/vmware.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/vmware.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/vs2013.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/vs2013.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/vs2015.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/vs2015.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/vs2017.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/vs2017.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/waterfox.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/waterfox.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/wd_blue.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/wd_blue.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/wd_red.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/wd_red.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/win10.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/win10.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/windows-10-logo.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/windows-10-logo.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/windows10-circle.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/windows10-circle.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/yonsei.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/yonsei.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ico/zlib.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../ico/zlib.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv_ico.h" beforeDir="false" afterPath="$PROJECT_DIR$/cv_ico.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cvtico.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cvtico.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cvtico.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cvtico.exe" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="1311441129">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="1" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="1" />
+          <entry key="ObjectiveC" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="212" />
+          <entry key="txt" value="97" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="97" />
+          <entry key="ObjectiveC" value="212" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-451450942">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="1113" />
+          <entry key="h" value="577" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ObjectiveC" value="1690" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cvtico (disassembly)" value="1" />
+          <entry key="h" value="1" />
+          <entry key="hpp" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Disassembly" value="1" />
+          <entry key="ObjectiveC" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-158605906">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cvtico (disassembly)" value="6" />
+          <entry key="h" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Disassembly" value="6" />
+          <entry key="ObjectiveC" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="233" />
+          <entry key="h" value="2672" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ObjectiveC" value="2905" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cvtico.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+              <folding>
+                <element signature="e#127#155#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cv_ico.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="89" column="14" selection-start-line="82" selection-start-column="12" selection-end-line="89" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="783">
+              <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ico.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/cv_ico..h" />
+        <option value="$PROJECT_DIR$/cv_ico.h" />
+        <option value="$PROJECT_DIR$/cvtico.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="1042" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cvtico" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prj" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.cvtico">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cvtico" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="../../png/adata-gold.png" WORKING_DIR="file://$PROJECT_DIR$/cmake-build-debug" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cvtico" TARGET_NAME="cvtico" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cvtico" RUN_TARGET_NAME="cvtico">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.cvtico" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="9" BundledDictionary0="django.dic" BundledDictionary1="css.dic" BundledDictionary2="python.dic" BundledDictionary3="pythonExtras.dic" BundledDictionary4="less.dic" BundledDictionary5="jetbrains.dic" BundledDictionary6="doxygen.dic" BundledDictionary7="english.dic" BundledDictionary8="objc.dic" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b6c4c01-729d-4b58-98aa-4fa130bae648" name="Default Changelist" comment="" />
+      <created>1540731205867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540731205867</updated>
+      <workItem from="1540731208163" duration="29000" />
+      <workItem from="1540731286222" duration="1828000" />
+      <workItem from="1540735833413" duration="2568000" />
+      <workItem from="1540909667757" duration="8327000" />
+      <workItem from="1541116449417" duration="28000" />
+      <workItem from="1541116528849" duration="20544000" />
+      <workItem from="1541174326346" duration="62000" />
+      <workItem from="1541174419078" duration="929000" />
+      <workItem from="1541175983474" duration="690000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35005000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="1042" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29150578" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3284055" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.25871173" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.37634408" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32884398" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29430">
+          <caret line="1090" selection-start-line="1090" selection-end-line="1090" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/new_allocator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="771">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3rdparty/include/opencv2/imgproc.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="769">
+          <caret line="278" column="4" selection-start-line="267" selection-end-line="296" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cv_ico.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="89" column="14" selection-start-line="82" selection-start-column="12" selection-end-line="89" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cvtico.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+          <folding>
+            <element signature="e#127#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="hg4idea.settings">
+    <option name="CHECK_INCOMING_OUTGOING" value="true" />
+    <option name="RECENT_HG_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+</project>
